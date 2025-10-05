@@ -1,6 +1,9 @@
 # 💫 About Me:
-👨‍💻 I'm currently expanding my knowledge and skills in backend development.<br>🥳 I'm open to collaborating on projects involving Go, Java, and JavaScript (Backend).<br>💬 Feel free to ask me anything about backend development, including APIs, databases, cloud solutions, and best practices.<br>📚 Check out my blogs and technical writings at [my blog](https://huypq.gitbook.io/hit).<br>💡 Always eager to learn and explore new technologies to build scalable and efficient backend systems!
-
+👨‍💻 I'm currently expanding my knowledge and skills in backend development and AI/ML engineering.  
+🥳 I'm open to collaborating on projects involving Go, Java, JavaScript (Backend), or Python for AI/ML applications.  
+💬 Feel free to ask me anything about backend development, APIs, databases, cloud solutions, machine learning, or best practices for building intelligent systems.  
+📚 Check out my blogs and technical writings at [my blog](https://huypq.gitbook.io/hit).  
+💡 Always eager to learn, explore new technologies, and bridge backend systems with AI to create scalable and smart solutions!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jbSs9tg5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huypq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huyynee) 
