@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently expanding my knowledge and skills in backend development.<br>🥳 I'm open to collaborating on projects involving Go, Java, and JavaScript (Backend).<br>💬 Feel free to ask me anything about backend development, including APIs, databases, cloud solutions, and best practices.<br>📚 Check out my blogs and technical writings at [Hit Blog](https://huypq.gitbook.io/hit/back-end-development).<br>💡 Always eager to learn and explore new technologies to build scalable and efficient backend systems!
+👨‍💻 I'm currently expanding my knowledge and skills in backend development.<br>🥳 I'm open to collaborating on projects involving Go, Java, and JavaScript (Backend).<br>💬 Feel free to ask me anything about backend development, including APIs, databases, cloud solutions, and best practices.<br>📚 Check out my blogs and technical writings at [My Blog](https://huypq.gitbook.io/hit).<br>💡 Always eager to learn and explore new technologies to build scalable and efficient backend systems!
 
 
 ## 🌐 Socials:
