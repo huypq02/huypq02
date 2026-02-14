@@ -6,16 +6,11 @@ I enjoy building APIs, working with databases, and designing backend architectur
 - Java  
 - JavaScript (Node.js)  
 - Python (AI/ML)  
-- APIs, Databases, Cloud Infrastructure  
+- APIs, Databases, Cloud InỈnastructure
 ## 🤝 Let’s Collaborate
 I’m open to collaborating on interesting projects, especially those that combine backend engineering with AI. If you're building something exciting, I’d love to connect.
 ## ✍️ Writing & Learning
 I regularly write about what I learn. Feel free to check out my blog for thoughts on backend development, system design, and machine learning.
-
----
-**Still learning. Still building. Always improving.**
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huypq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huyynee) 
 
@@ -32,6 +27,7 @@ I regularly write about what I learn. Feel free to check out my blog for thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+**Still learning. Still building. Always improving.**
 [![](https://visitcount.itsvg.in/api?id=huypq02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
