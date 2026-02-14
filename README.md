@@ -1,14 +1,18 @@
-# 💫 About Me:
-👋 Hey there!
-I’m a backend developer who’s been diving deeper into AI/ML lately, basically living at the intersection of scalable systems and intelligent models.
-I enjoy building APIs, working with databases, and designing backend architectures that don’t fall apart under real-world usage. Recently, I’ve been exploring how to integrate machine learning into production-ready systems not just training models, but actually making them useful.
-🛠 Tech I enjoy working with:
-	•	Go, Java, JavaScript (Node.js) for backend systems
-	•	Python for AI/ML projects
-	•	Cloud, APIs, and databases
-I’m always open to collaborating on interesting projects, especially ones that combine backend engineering with AI. If you’re building something cool, I’d love to hear about it.
-I also write about what I learn, check out my blog if you’re into backend, ML, or system design topics.
-Still learning. Still building. Still breaking things and fixing them better.
+# 👋 Hey there!
+I'm a backend developer currently diving deeper into AI/ML living at the intersection of scalable systems and intelligent models.
+I enjoy building APIs, working with databases, and designing backend architectures that can handle real-world scale. Recently, I’ve been focusing on integrating machine learning into production-ready systems not just training models, but actually making them useful.
+## 🛠 Tech I Enjoy Working With
+- Go  
+- Java  
+- JavaScript (Node.js)  
+- Python (AI/ML)  
+- APIs, Databases, Cloud Infrastructure  
+## 🤝 Let’s Collaborate
+I’m open to collaborating on interesting projects, especially those that combine backend engineering with AI. If you're building something exciting, I’d love to connect.
+## ✍️ Writing & Learning
+I regularly write about what I learn. Feel free to check out my blog for thoughts on backend development, system design, and machine learning.
+---
+**Still learning. Still building. Always improving.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huypq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huyynee) 
