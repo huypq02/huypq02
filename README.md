@@ -6,7 +6,7 @@ I enjoy building APIs, working with databases, and designing backend architectur
 - Java  
 - JavaScript (Node.js)  
 - Python (AI/ML)  
-- APIs, Databases, Cloud InỈnastructure
+- APIs, Databases, Cloud Infrastructure
 ## 🤝 Let’s Collaborate
 I’m open to collaborating on interesting projects, especially those that combine backend engineering with AI. If you're building something exciting, I’d love to connect.
 ## ✍️ Writing & Learning
